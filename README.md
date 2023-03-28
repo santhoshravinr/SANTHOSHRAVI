@@ -1,3 +1,5 @@
 ![banner](./IMG/standard.gif)
-###Hey There 👋,
+
+
+Hey There 👋,
     I am Santhosh
